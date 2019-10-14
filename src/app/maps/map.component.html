@@ -1,0 +1,14 @@
+<div>
+
+  <div id="map-container">
+    <div #primaryMap [style.height.px]="currentHeight" [style.width.px]="currentWidth"></div>
+
+    <map-control class="map-control"></map-control>
+
+    <div class="mouse-coords">
+      <span id="mouse-coords-label"></span>
+      <span [innerHTML]="mcText"></span>
+    </div>
+  </div>
+
+</div>
