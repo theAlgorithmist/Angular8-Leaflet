@@ -1,6 +1,9 @@
 {
   "name": "angular8-leaflet",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "keywords": ["Angular", "Maps", "Leaflet"],
+  "description": "A liquid map with Angular 8 and Leaflet",
+  "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
