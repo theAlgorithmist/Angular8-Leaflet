@@ -1,6 +1,6 @@
 # Integrating Leaflet Map Into Angular 8
 
-This is the code distribution for the Medium Article, _[Angular 8 and Leaflet Map](url)_ .
+This is the code distribution for the Medium Article, _[Integrating maps into your Angular application with Leaflet](https://medium.com/ngconf/integrating-maps-into-your-angular-application-with-leaflet-b9aedb040735)_ .
 
 This code distribution illustrates how to integrate Leaflet Map using ESRI tiles into an Angular 8 component.  The map is responsive and adjusts its width based on current browser width.  The demo also illustrates that Angular components may be used as custom map controls.  Map icons are also displayed.
 
